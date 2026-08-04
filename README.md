@@ -21,4 +21,4 @@
 
 ### [🫡 PLANILHA DE MATERIAIS DO CIEBP 2025](https://docs.google.com/spreadsheets/d/1KSkz_pLBdwn9lW3QqxPsi7jy10WKifneZf0r8wdFD14/edit?usp=sharing)
 
-###### Última atualização: 04/08 às 07h40
+###### Última atualização: 04/08 às 08h30
