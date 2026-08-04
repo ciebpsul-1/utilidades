@@ -1,10 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: "Montserrat";
+  background-color: antiquewhite;
+  margin: 0;
 }
 
 .items {
   margin-top: 10px;
   text-align: left;
+}
+
+img {
+  margin-top: 20px;
+  width: 200px;
+}
+
+p {
+  font-size: 10px;
 }
